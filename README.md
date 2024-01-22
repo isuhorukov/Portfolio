@@ -2,7 +2,7 @@
 
 В данном репозитории приведены работы для обзора  
 Для каждого проекта не забудьте установить зависимости:
-```python3 -m pip install requirements.txt```  
+```python -m pip install -r requirements.txt```  
 
 ### Проекты
 * **SmartAssistent** (умный помошник)  
